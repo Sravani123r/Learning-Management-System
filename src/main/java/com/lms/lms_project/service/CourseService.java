@@ -5,7 +5,7 @@ import java.util.Optional;
 
 import com.lms.lms_project.entity.Course;
 
-public interface CoarseService {
+public interface CourseService {
 	List<Course> getAllCourses();
     Optional<Course> getCourseById(Long id);
     Course createCourse(Course course);

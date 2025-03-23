@@ -1,5 +1,5 @@
-package com.lms.lms_project.controller;
-
-public class UserController {
-
-}
+//package com.lms.lms_project.controller;
+//
+//public class UserController {
+//
+//}

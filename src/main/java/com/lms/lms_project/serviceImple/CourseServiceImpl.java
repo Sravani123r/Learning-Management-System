@@ -4,9 +4,9 @@ import java.util.List;
 import java.util.Optional;
 
 import com.lms.lms_project.entity.Course;
-import com.lms.lms_project.service.CoarseService;
+import com.lms.lms_project.service.CourseService;
 
-public class CoarseServiceImpl implements CoarseService{
+public class CourseServiceImpl implements CourseService{
 
 	@Override
 	public List<Course> getAllCourses() {
